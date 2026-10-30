@@ -1,4 +1,4 @@
-# Rubens Merlino
+# Lic. Rubens Merlino
 
 **Geologist & software developer** · Data-driven geosciences · Montevideo, Uruguay
 
